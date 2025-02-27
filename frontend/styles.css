@@ -1,0 +1,4 @@
+
+body { font-family: Arial, sans-serif; text-align: center; }
+button { margin: 5px; padding: 10px; cursor: pointer; }
+.favorite { background-color: yellow; }
